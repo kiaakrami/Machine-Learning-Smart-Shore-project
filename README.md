@@ -1,6 +1,6 @@
 # Machine-Learning-Smart-Shore-project
 ### High-Resolution Shoreline Data for Flood Protection and Environmental Conservation
-Mentor: Nathan Vadeboncoeur
+Mentor: [Nathan Vadeboncoeur](https://www.linkedin.com/in/nathan-vadeboncoeur-93a57240/)
 Summary
 
 Canada should be the world leader in coastline management. We have, by far, the longest coastline of any country and more lakes than the rest of the world combined. Communities from coast-to-coast-to-coast have been managing flood risks and supporting important ecosystems for generations, but much of this knowledge isn’t shared. This is because data often come with restrictions that limit sharing, and are in a format that requires expensive and specialized software to access. We’re trying to change that through an initiative called Smart Shores that provides high-resolution data and shares it with communities across BC in a range of formats so that it can be directly integrated into GIS applications and shared with the public in an interactive online format.
